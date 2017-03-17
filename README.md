@@ -1,27 +1,27 @@
-# ember-cli-annotator
+# ember-cli-annotator addon
 
-This README outlines the details of collaborating on this Ember addon.
+This is an Ember addon which allows users to annotate page text.
+
+## Introduction
+
+This is an interesting introduction.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-cli-annotator`
-* `npm install`
-* `bower install`
+This explains how to install the addon.
 
-## Running
+## References
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* [Annotation is now a web standard – Hypothesis](https://hypothes.is/blog/annotation-is-now-a-web-standard/)
+* [Annotatorjs](http://annotatorjs.org)
+* [Annotatorjs github](https://github.com/openannotation/annotator/)
+* [Annotatorjs documentation](http://docs.annotatorjs.org/en/v1.2.x/index.html)
+* [Madison Project](http://opengovfoundation.org/the-madison-project)
+* [Madison github](opengovfoundation/madison)
 
-## Running Tests
+## Author
 
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
+Kiffin Gish \< kiffin.gish@planet.nl \>
+[Gishtech](http://gishtech.com)
 
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+\- You're never too old to learn new stuff.
