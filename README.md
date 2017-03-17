@@ -10,6 +10,10 @@ This is an interesting introduction.
 
 This explains how to install the addon.
 
+## How it works
+
+This explains how the addon works.
+
 ## References
 
 * [Ember](http://emberjs.com/)
