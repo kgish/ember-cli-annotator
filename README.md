@@ -7,7 +7,8 @@ This is an Ember addon which allows users to create and manage annotations of pa
 This is an interesting introduction.
 
 W3C Annotation Architecture:
-![](/images/annotation-architecture.svg?raw=true | width=400)
+
+![](images/annotation-architecture.svg?raw=true | width=400)
 
 ## Installation
 
