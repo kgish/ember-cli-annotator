@@ -29,6 +29,7 @@ This explains how the addon works.
 
 * [Annotation is now a web standard – Hypothesis](https://hypothes.is/blog/annotation-is-now-a-web-standard/)
 * [W3C Web Annotation Working Group](https://www.w3.org/annotation/)
+* [Hypothesis client github](https://github.com/hypothesis/client)
 * [Annotatorjs](http://annotatorjs.org)
 * [Annotatorjs github](https://github.com/openannotation/annotator/)
 * [Annotatorjs documentation](http://docs.annotatorjs.org/en/v1.2.x/index.html)
