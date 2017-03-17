@@ -12,6 +12,13 @@ This explains how to install the addon.
 
 ## References
 
+* [Ember](http://emberjs.com/)
+* [Ember guides](https://guides.emberjs.com/v2.11.0/)
+* [Ember-cli](https://ember-cli.com/)
+* [Developing addons and blueprints](https://ember-cli.com/extending/#developing-addons-and-blueprints)
+* [Ember addon secrets](http://emberup.co/ember-addon-secrets/)
+* [Introducing Ember CLI Addons](https://dockyard.com/blog/2014/06/24/introducing_ember_cli_addons)
+
 * [Annotation is now a web standard – Hypothesis](https://hypothes.is/blog/annotation-is-now-a-web-standard/)
 * [Annotatorjs](http://annotatorjs.org)
 * [Annotatorjs github](https://github.com/openannotation/annotator/)
