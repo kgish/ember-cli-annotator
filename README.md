@@ -1,6 +1,6 @@
 # ember-cli-annotator addon
 
-This is an Ember addon which allows users to annotate page text.
+This is an Ember addon which allows users to create and manage annotations of page text.
 
 ## Introduction
 

@@ -1,12 +1,13 @@
 {
   "name": "ember-cli-annotator",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember addon for creating and managing annotations of page text.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "annotation"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Kiffin Gish",
   "directories": {
     "doc": "doc",
     "test": "tests"
