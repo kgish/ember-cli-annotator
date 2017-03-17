@@ -1,10 +1,13 @@
 # ember-cli-annotator addon
 
-This is an Ember addon which allows users to create and manage annotations of page text. It is based on the work being done by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/), and an attempt has been made to remain compatable with the specifications as they evolve and change.
+This is an Ember addon which allows users to create and manage annotations of page text. It is based on the work currently being done by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/) towards a standardized annotation. An attempt has been made to keep pace and remain compatible with the specifications as they evolve and change.
 
 ## Introduction
 
 This is an interesting introduction.
+
+W3C Annotation Architecture:
+![](/images/annotation-architecture.svg?raw=true | width=400)
 
 ## Installation
 
